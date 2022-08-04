@@ -1,5 +1,5 @@
 # dlotto
-This android app for lottery ticket of Korea.
+Android app for lottery ticket of Korea.
 
 ### Google Play
 You can find this app in Google Play app.
