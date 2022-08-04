@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">로또 번호 생성기</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">죄송합니다. 해당 기능은 준비중입니다...</string>
+</resources>
