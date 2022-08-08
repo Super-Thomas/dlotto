@@ -11,3 +11,5 @@ This app will provide features below.
 2. You can management for lottery numbers. (Save and Delete, Win or Lose)
 3. You can find out the lottery winning numbers in this app.
 4. You can check your lottery ticket using QR Code in this app.
+
+Good luck!
