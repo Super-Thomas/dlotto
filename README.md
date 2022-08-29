@@ -2,8 +2,8 @@
 Android app for lottery ticket of Korea.
 
 ### Google Play
-You can find this app in Google Play app.
-https://play.google.com/store/apps/details?id=com.goodlotto.dlotto
+![image](https://user-images.githubusercontent.com/99227045/187132649-e042823d-dc49-4cea-ac18-b9857e0b4b92.png)<br />
+You can find this app in [Google Play app](https://play.google.com/store/apps/details?id=com.goodlotto.dlotto).
 
 ### Overview
 This app will provide features below.
